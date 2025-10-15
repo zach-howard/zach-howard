@@ -1,4 +1,4 @@
-## Hi, I'm Zach 👋
+# Hi, I'm Zach 👋
 
 # Certifications:
 <div align="left" style="font-size:0; line-height:0;">
