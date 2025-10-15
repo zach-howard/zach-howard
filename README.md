@@ -2,6 +2,9 @@
 
 # Executive Briefings 👨‍💻:
 
+- <b>[Improving Password Management and Reset Procedures in IT Support Environments](https://github.com/zach-howard/Improving-Password-Management)</b>
+  - A framework for managing and resolving password related helpdesk requests efficiently and securely.
+  
 # Certifications 💻:
 <div align="left" style="font-size:0; line-height:0;">
   <a href="https://www.credly.com/badges/47bf5415-855a-4ea0-be64-8fba92db1a25/public_url" target="_blank" style="display:inline-block;">
