@@ -1,6 +1,8 @@
 # Hi, I'm Zach 👋
 
-# Certifications:
+# Projects 👨‍💻:
+
+# Certifications 💻:
 <div align="left" style="font-size:0; line-height:0;">
   <a href="https://www.credly.com/badges/47bf5415-855a-4ea0-be64-8fba92db1a25/public_url" target="_blank" style="display:inline-block;">
     <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="70" style="display:block; border:0;" />
