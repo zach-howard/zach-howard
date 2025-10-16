@@ -7,6 +7,8 @@
 - <b>[Implementation of Enterprise Systems in Mid-Sized Organizations](https://github.com/zach-howard/Enterprise-System-Implementation)</b>: A framework which details the implementation process of enterprise systems in mid-sized organizations.
 
 - <b>[Enhancing Incident Management Processes in IT Support Environments](https://github.com/zach-howard/Incident-Management-Support-Environment)</b>: A framework for improving how IT support teams handle incidents, focusing on reducing downtime and streamlining workflows.
+
+- <b>[Enhancing Endpoint Security in Modern IT Environments](https://github.com/zach-howard/Enhancing-Endpoint-Security)</b>: A strategy for strengthening endpoint security across all environments.
   
 # Certifications 💻:
 <div align="left" style="font-size:0; line-height:0;">
