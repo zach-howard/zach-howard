@@ -5,6 +5,8 @@
 - <b>[Improving Password Management and Reset Procedures in IT Support Environments](https://github.com/zach-howard/Improving-Password-Management)</b>: A framework for managing and resolving password related helpdesk requests efficiently and securely.
 
 - <b>[Implementation of Enterprise Systems in Mid-Sized Organizations](https://github.com/zach-howard/Enterprise-System-Implementation)</b>: A framework which details the implementation process of enterprise systems in mid-sized organizations.
+
+- <b>[Enhancing Incident Management Processes in IT Support Environments](https://github.com/zach-howard/Enterprise-System-Implementation)</b>: A framework for improving how IT support teams handle incidents, focusing on reducing downtime and streamlining workflows.
   
 # Certifications 💻:
 <div align="left" style="font-size:0; line-height:0;">
