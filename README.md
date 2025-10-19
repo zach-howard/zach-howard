@@ -5,6 +5,9 @@
 - **[Basic Log Analyzer (Python)](https://github.com/zach-howard/Python-Log-Analyzer)**  
   Simple command-line utility for parsing web server access logs. Built purely with Python's standard library.
 
+- **[Simple TCP Connect Port Scanner](https://github.com/zach-howard/Python-Port-Scanner)**  
+  A foundational Python utility designed for efficient network reconnaissance and basic service identification.
+
 ## Executive Briefings 📃
 
 - **[Improving Password Management and Reset Procedures in IT Support Environments](https://github.com/zach-howard/Improving-Password-Management)**  
