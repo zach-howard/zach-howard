@@ -1,5 +1,10 @@
 ## Hi, I'm Zach 👋
 
+## Tools / Projects  🔧 
+
+- **[Basic Log Analyzer (Python)](https://github.com/zach-howard/Python-Log-Analyzer)**  
+  Simple command-line utility for parsing web server access logs. Built purely with Python's standard library.
+
 ## Executive Briefings 👨‍💻
 
 - **[Improving Password Management and Reset Procedures in IT Support Environments](https://github.com/zach-howard/Improving-Password-Management)**  
