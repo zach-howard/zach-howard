@@ -1,11 +1,11 @@
 ## Hi, I'm Zach 👋
 
-## Tools / Projects  🔧 
+## Tools / Projects  💻 
 
 - **[Basic Log Analyzer (Python)](https://github.com/zach-howard/Python-Log-Analyzer)**  
   Simple command-line utility for parsing web server access logs. Built purely with Python's standard library.
 
-## Executive Briefings 👨‍💻
+## Executive Briefings 📃
 
 - **[Improving Password Management and Reset Procedures in IT Support Environments](https://github.com/zach-howard/Improving-Password-Management)**  
   A framework for managing and resolving password-related helpdesk requests efficiently and securely.
@@ -19,7 +19,7 @@
 - **[Enhancing Endpoint Security in Modern IT Environments](https://github.com/zach-howard/Enhancing-Endpoint-Security)**  
   A strategy for strengthening endpoint security across all environments.
 
-## Certifications 💻
+## Certifications 🎓
 
 <table style="border: none;">
   <tr>
