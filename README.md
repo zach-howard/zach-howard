@@ -1,4 +1,7 @@
 ## Hi, I'm Zach 👋
+I’m an IT and operations professional exploring the intersection of AI, automation, and systems development. On this GitHub, I showcase tools I’ve built and enhanced using vibe coding, as well as some executive briefings that I've written over the years.
+
+I’m passionate about leveraging AI and scripting to create practical tools that improve operational workflows and support data-driven decision-making.
 
 ## Tools / Projects  💻 
 
