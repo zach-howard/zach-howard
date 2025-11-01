@@ -11,6 +11,9 @@ I’m an IT and operations professional exploring the intersection of AI, automa
 
 ## Executive Briefings 📃
 
+- **[Implementation of Generative AI in Large Enterprises](https://github.com/zach-howard/Implement-Generative-AI-Large-Firms)**  
+  A strategy exploring how large enterprises might implement Generative AI to drive productivity across business operations.
+
 - **[Improving Password Management and Reset Procedures in IT Support Environments](https://github.com/zach-howard/Improving-Password-Management)**  
   A framework for managing and resolving password-related helpdesk requests efficiently and securely.
 
